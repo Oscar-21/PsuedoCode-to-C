@@ -19,7 +19,7 @@ declare sit
 	the seat of the chair
 	and seat of chair is directly behind
 	robot )
-
+   else
       starting from the top rotate legs
       45 degress downward
 
