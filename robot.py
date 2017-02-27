@@ -1,6 +1,5 @@
 
-# Filename:  robot.py
-# Description: Program for a robot that
+# Filename:  robot.psuedocode
  
 # Version:  1.0
 # Created:  02/27/2017 04:49:20 PM
